@@ -13,15 +13,7 @@ This project is a faithful, responsive recreation of the Blog Preview Card desig
 * Hover and focus states to give an interactive feel.
 * Mobile-first layout that adapts to the desktop layout shown in the design assets.
 
----
 
-## Screenshots
-
-Desktop preview:
-
-![Desktop preview](./assets/des)
-
----
 
 ## Build & tools
 
